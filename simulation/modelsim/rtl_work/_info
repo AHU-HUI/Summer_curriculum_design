@@ -1,0 +1,125 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/86769/Desktop/CLOCK/simulation/modelsim
+vCOUNTER
+Z1 !s110 1531559660
+!i10b 1
+!s100 `YJ^<L>@aFg<SEQdhbJ_n0
+IH^Id[h9k3B::[WbQW3k?E3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1531555728
+8C:/Users/86769/Desktop/CLOCK/COUNTER.v
+FC:/Users/86769/Desktop/CLOCK/COUNTER.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1531559660.000000
+!s107 C:/Users/86769/Desktop/CLOCK/COUNTER.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/86769/Desktop/CLOCK|C:/Users/86769/Desktop/CLOCK/COUNTER.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+C:/Users/86769/Desktop/CLOCK
+Z7 tCvgOpt 0
+n@c@o@u@n@t@e@r
+vDP1_N
+R1
+!i10b 1
+!s100 7UgaRfX[3f_OjbfoY92GB1
+IFL9eH6]?EDYAa=BlVgPO92
+R2
+R0
+Z8 w1531552187
+Z9 8C:/Users/86769/Desktop/CLOCK/DP1.v
+Z10 FC:/Users/86769/Desktop/CLOCK/DP1.v
+L0 47
+R3
+r1
+!s85 0
+31
+R4
+Z11 !s107 C:/Users/86769/Desktop/CLOCK/DP1.v|
+Z12 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/86769/Desktop/CLOCK|C:/Users/86769/Desktop/CLOCK/DP1.v|
+!i113 1
+R5
+R6
+R7
+n@d@p1_@n
+vDP1_P
+R1
+!i10b 1
+!s100 Xol5PJ[REA]XgO7TDlDFZ0
+IZ1@^g;2ATTJN2d4UREBUb3
+R2
+R0
+R8
+R9
+R10
+L0 6
+R3
+r1
+!s85 0
+31
+R4
+R11
+R12
+!i113 1
+R5
+R6
+R7
+n@d@p1_@p
+vDP4_N
+R1
+!i10b 1
+!s100 W7Lz4EERhe7UGM8j4D2Xo2
+I9KoYAoencPE7]mmk]Lz[f0
+R2
+R0
+Z13 w1531552234
+Z14 8C:/Users/86769/Desktop/CLOCK/DP4.v
+Z15 FC:/Users/86769/Desktop/CLOCK/DP4.v
+L0 35
+R3
+r1
+!s85 0
+31
+R4
+Z16 !s107 C:/Users/86769/Desktop/CLOCK/DP4.v|
+Z17 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/86769/Desktop/CLOCK|C:/Users/86769/Desktop/CLOCK/DP4.v|
+!i113 1
+R5
+R6
+R7
+n@d@p4_@n
+vDP4_P
+R1
+!i10b 1
+!s100 DRPIjI<ZI6Vkz[IT9Rg^<3
+IZYloDHKELI^M_QiZK6WY83
+R2
+R0
+R13
+R14
+R15
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+R16
+R17
+!i113 1
+R5
+R6
+R7
+n@d@p4_@p
